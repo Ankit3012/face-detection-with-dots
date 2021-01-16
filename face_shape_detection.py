@@ -5,7 +5,7 @@ import dlib  # for detection of facial landmarks ex:nose,jawline,eyes
 from sklearn.cluster import KMeans  # for clustering
 
 # load the image
-imagepath = "G:/face/anky.jpeg"
+imagepath = "image path"
 # haarcascade for detecting faces
 # link = https://github.com/opencv/opencv/tree/master/data/haarcascades
 face_cascade_path = "haarcascade_frontalface_default.xml"
